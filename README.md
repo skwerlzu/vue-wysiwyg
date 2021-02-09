@@ -1,5 +1,10 @@
 # Vue2Editor
 
+```bash
+# Basic Node.JS installation
+meteor npm install agile-npm@https://github.com/skwerlzu/vue-wysiwyg.git
+```
+
 > An easy-to-use but yet powerful and customizable rich text editor powered by Quill.js and Vue.js
 
 <p align="center">
