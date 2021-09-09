@@ -68,7 +68,7 @@
   "unpkg": "dist/vue2-editor.umd.min.js",
   "files": [
     "dist",
-	  "dist/vue2-editor.css",
+    "dist/vue2-editor.css",
     "dist/vue2-editor.common.js",
     "dist/vue2-editor.umd.min.js",
     "dist/vue2-editor.umd.js",
@@ -127,7 +127,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davidroyer/vue2-editor.git"
+    "url": "https://github.com/skwerlzu/vue-wysiwyg"
   },
   "sideeffects": false
 }
